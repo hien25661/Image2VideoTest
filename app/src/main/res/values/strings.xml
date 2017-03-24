@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Photo Video</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <string name="title_activity_setting">SettingActivity</string>
+    <string name="btn_createvideo">Create Video</string>
+    <string name="btn_watchvideo">Watch video</string>
+    <string name="btn_share">Rate us</string>
+    <string name="title_activity_list_video">ListVideoActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_edit_photo_screen">EditPhotoScreen</string>
+    <string name="ads_banner">ca-app-pub-5111870703816303/9116144258</string>
+    <string name="ads_interstitial">ca-app-pub-5111870703816303/8807236651</string>
+    <string-array name="second_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string name="title_activity_frame">FrameActivity</string>
+</resources>
